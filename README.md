@@ -23,7 +23,10 @@
 			<li>Progress in life goals (35%)</li><meter min="0" max="100" value="35">35%</meter><br> 
 <br>
 	<h1>More About Me<h1>
+<br>
 		<details>I was born in Framingham, MA and have moved around quite a bit. Lived in Cincinnati for three years and now live in Manchester, NH with my dog</details>
+
+<br>
 
 <footer>
 	<img src ="http://www.intro-webdesign.com/images/newlogo.png"
