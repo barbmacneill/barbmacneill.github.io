@@ -29,7 +29,8 @@
 <br>
 
 <footer>
-	<img src ="http://www.intro-webdesign.com/images/newlogo.png"<a href="http://www.intro-webdesign.com/images/newlogo.png">Intro to Web Design</a>
+	<img src ="http://www.intro-webdesign.com/images/newlogo.png"
+<br>
 	     alt ="Image for Project"><a href="http://www.intro-webdesign.com/images/newlogo.png">Intro to Web Design</a>
 <br>
 	
