@@ -1,12 +1,13 @@
-<!doctype html>
 # barbmacneill.github.io
 <html lang= "en">
 <head>
 	<meta charset="utf-8">
+	<!doctype html>
 <header>
 <h1>Barb MacNeill</h1>
 	<title>Final HTML Project</title>
 </head>
+	</doctype html>
      <a href="link1.html">One</a> <a href="link2.html">Two</a> <a href="link3.html">Three</a> <a href="Vier.html">Vier (Four in German)</a>
 </header>
 <body>
