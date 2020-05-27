@@ -24,15 +24,16 @@
 <br>
 	<h1>More About Me<h1>
 <br>
-		<details>I am from Sudbury, MA and now live in Manchester, NH with my dog</details>
+		<details>I am from Sudbury, MA and now live in Manchester, NH with my dog, Tommy</details>
 
 <br>
 
 <footer>
 	<img src ="http://www.intro-webdesign.com/images/newlogo.png"
 	     alt ="Image for Project">
-
+<br>
 	<a href="http://www.intro-webdesign.com/images/newlogo.png">Intro to Web Design</a>
+<br>
 	
 	<p>This page was created by Barb MacNeill & Colleen van Lent. To learn more about web design, visit Intro to Web Design:<p>
 	<a href="http://www.intro-webdesign.com">Intro to Web Design</a>
