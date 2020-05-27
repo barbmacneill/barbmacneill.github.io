@@ -18,13 +18,13 @@
 		</ul>
 	<h1> Achievments <h1>
 		<ul>
-		    	<li> Progress in this course (100%)</li><meter min="0" max="100" value="100">100%</meter><br> 
-		   	<li>Progress in the Specialization capstone (20%)</li><meter min="0" max="100" value="20">20%</meter><br> 
-			<li>Progress in life goals (35%)</li><meter min="0" max="100" value="35">35%</meter><br> 
+		    	<li> Progress in This Course (100%)</li><meter min="0" max="100" value="100">100%</meter><br> 
+		   	<li>Progress in the Specialization Capstone (20%)</li><meter min="0" max="100" value="20">20%</meter><br> 
+			<li>Progress in Life Goals (35%)</li><meter min="0" max="100" value="35">35%</meter><br> 
 <br>
 	<h1>More About Me<h1>
 <br>
-		<details>I am from Sudbury, MA and now live in Manchester, NH with my dog, Tommy</details>
+		<details>I grew up in Sudbury, MA and now live in Manchester, NH with my dog, Tommy</details>
 
 <br>
 
@@ -35,6 +35,6 @@
 	<a href="http://www.intro-webdesign.com/images/newlogo.png">Intro to Web Design</a>
 <br>
 	
-	<p>This page was created by Barb MacNeill & Colleen van Lent. To learn more about web design, visit Intro to Web Design:<p>
-	<a href="http://www.intro-webdesign.com">Intro to Web Design</a>
+	<p>This page was created by Barb MacNeill & Colleen van Lent. To learn more about web design, visit Intro to Web Design:
+	<a href="http://www.intro-webdesign.com">Intro to Web Design</a></P>
 
