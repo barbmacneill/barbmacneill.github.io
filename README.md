@@ -1,2 +1,2 @@
 # barbmacneill.github.io
-web learning
+My final project for Intro to Web Design, HTML
