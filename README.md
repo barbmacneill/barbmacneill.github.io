@@ -20,7 +20,7 @@
 		    	<li> Progress in this course (100%)</li><meter min="0" max="100" value="100">100%</meter><br> 
 		   	<li>Progress in the Specialization capstone (20%)</li><meter min="0" max="100" value="20">20%</meter><br> 
 			<li>Progress in life goals (35%)</li><meter min="0" max="100" value="35">35%</meter><br> 
-
+<br>
 	<h1>More About Me<h1>
 
 <footer>
