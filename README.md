@@ -24,7 +24,7 @@
 <br>
 	<h1>More About Me<h1>
 <br>
-		<details>I was born in Framingham, MA and have moved around quite a bit. Lived in Cincinnati for three years and now live in Manchester, NH with my dog</details>
+		<details>I am from Sudbury, MA and now live in Manchester, NH with my dog</details>
 
 <br>
 
