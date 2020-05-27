@@ -35,6 +35,6 @@
 	<a href="http://www.intro-webdesign.com/images/newlogo.png">Intro to Web Design</a>
 <br>
 	
-	<p>This page was created by Barb MacNeill & Colleen van Lent. To learn more about web design, visit Intro to Web Design:
+	<p>This page was created by Barb MacNeill & Colleen van Lent. To learn more about web design, visit
 	<a href="http://www.intro-webdesign.com">Intro to Web Design</a></P>
 
