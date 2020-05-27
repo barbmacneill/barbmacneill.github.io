@@ -24,7 +24,7 @@
 <br>
 	<h1>More About Me<h1>
 <br>
-		<details=My childhood>I grew up in Sudbury, MA and now live in Manchester, NH with my dog, Tommy</details>
+		<details>I grew up in Sudbury, MA and now live in Manchester, NH with my dog, Tommy</details>
 
 <br>
 
