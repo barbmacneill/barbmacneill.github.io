@@ -19,7 +19,6 @@
 
 	<h1>More About Me<h1>
 
-</body>
 <footer>
 	<img src ="http://www.intro-webdesign.com/images/newlogo.png"
 	     alt ="Image for Project">
