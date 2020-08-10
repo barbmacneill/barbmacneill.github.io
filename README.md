@@ -1,11 +1,10 @@
-<!doctype html>
 <html lang= "en">
-<head>
+	
 	<meta charset="utf-8">
 	<meta name="author" content="Barb">
 	<title>Final Project</title>
 	<h1>Barb MacNeill<h1>
-</head>
+	
 <br>
      <a href="link1.html">One</a> <a href="link2.html">Two</a> <a href="link3.html">Three</a> <a href="Vier.html">Vier (Four in German)</a>
 <br>
@@ -20,7 +19,7 @@
 	<h2> Achievments <h2>
 		<ul>
 		    	<li> Progress in This Course (100%)</li><meter min="0" max="100" value="100">100%</meter><br> 
-		   	<li>Progress in the Specialization Capstone (20%)</li><meter min="0" max="100" value="20">20%</meter><br> 
+		   	<li>Progress in the Specialization Capstone (80%)</li><meter min="0" max="100" value="20">20%</meter><br> 
 			<li>Progress in Life Goals (35%)</li><meter min="0" max="100" value="35">35%</meter><br> 
 <br>
 	<h2>More About Me<h2>
