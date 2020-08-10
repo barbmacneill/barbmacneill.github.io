@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+    <link rel="stylesheet" href="CSS Code.css">
+</head>
+
+<script>
+	document.write("Hello World");
+</script>
+
+<script> 
+	prompt("What is your name?")
+</script> 
+
+<header> Barb's Test Website </header>
+
+<img src="http://wallpapercave.com/wp/EqY1mAP.jpg" alt= "Cool Tree" width= "200" height= "80">
+
+<body>
+
+	<p>Hi There and Welcome to my Site!</p>
+	<p> Please take a look around and let me know what you think</p>
+    
+</body>
+</html>
+
+<form>
+ <label for='name'>Name</label>
+ <input type='text' id= 'name'name = 'name'><br/>
+
+ <label>Email: <input type='email' name = 'email'></label><br/>
+ <input type = 'range' id= 'range' name = 'range'><br/>
+ <input type = 'number' id= 'number' name = 'number'><br/>
+ zip code with pattern: <input type="text"
+ name= "zip_codeP" pattern="[0-9]{5}" required><br/>
+
+ <input type = 'submit' value= "click here">
+
+</form>
+
+<form>
+	Favorite Food<br/>
+	<label><input type="checkbox" name="food" value = "sushi"> Sushi</label><br/>
+
+	<label><input type="checkbox" name="food" value="Pizza" > Pizza</label><br/>
+
+	<label><input type="checkbox" name="food" value="Salad" > Salad</label><br/>
+
+	<input type = "submit">
+</form>
+
+<form>
+	<label><input type="radio" name="gender" value = "male">Male</label><br/>
+
+	<label><input type="radio" name="gender" value = "female">Female</label><br/>
+
+	<input type = "submit">
+</form>
