@@ -4,7 +4,7 @@
 	<meta name="author" content="Barb">
 	<title>Final Project</title>
 	<h1>Barb MacNeill<h1>
-<img src= "https://travel.home.sndimg.com/content/dam/images/travel/stock/2018/5/16/iStock_Cincinnati-Skyline_641449108_xl.jpg.rend.hgtvcom.616.411.suffix/1526499909887.jpeg" alt= "Cincinnati" width= "200" height= "80"
+<img src= "https://travel.home.sndimg.com/content/dam/images/travel/stock/2018/5/16/iStock_Cincinnati-Skyline_641449108_xl.jpg.rend.hgtvcom.616.411.suffix/1526499909887.jpeg" alt= "Cincinnati" width= "200" height= "80">
 	
 <br>
      <a href="link1.html">One</a> <a href="link2.html">Two</a> <a href="link3.html">Three</a> <a href="Vier.html">Vier (Four in German)</a>
