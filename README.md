@@ -25,7 +25,7 @@
 <br>
 	<h2>More About Me<h2>
 <br>
-		<details>I grew up in Sudbury, MA and now live in Manchester, NH with my dog, Tommy</details>
+		<details>I grew up in Sudbury, MA and now live in Manchester, NH with my dog, Tommy. I will be moving to the Cincinnati area in October</details>
 
 <br>
 
